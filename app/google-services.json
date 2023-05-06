@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077435963679",
+    "project_id": "polymetalassignment",
+    "storage_bucket": "polymetalassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077435963679:android:5daea49bff57912c3d382a",
+        "android_client_info": {
+          "package_name": "com.codewithme.polymetalassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077435963679-kn72gteqbobkr7h9vka5fpu6ahpn3eqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNmfyfDu-ztyRrtiBPbpE-QKNjyX3zsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077435963679-kn72gteqbobkr7h9vka5fpu6ahpn3eqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
